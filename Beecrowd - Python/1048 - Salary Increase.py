@@ -1,7 +1,6 @@
 '''
 The company ABC decided to give a salary increase to its employees, according to the following table:
 
-
 Salary	                Readjustment Rate
 0  -400.00              15%
 400.01 - 800.00         12%
