@@ -1,3 +1,7 @@
+'''
+Acessar enunciado no site.
+'''
+
 tipo = input('')
 if tipo == 'vertebrado':
     mamiferoAve = input('')
